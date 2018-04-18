@@ -1,0 +1,219 @@
+.general {
+    /*  width: 1730px;
+    height: 6001px;*/
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(background.jpg);
+}
+
+.titleMenu {
+    /* width: 1730px;*/
+    height: 68px;
+    display: block;
+    border-bottom-style: none;
+    background-color: #ffffff;
+}
+
+.titleTable {
+    display: flex;
+    justify-content: center;
+}
+
+.cascadMenu {
+    display: inline-block;
+}
+
+.icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.divEr {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 26px;
+}
+
+.upMenuItems {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 232px;
+    margin-right: 308px;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    margin-right: 26px;
+}
+
+.arrowDown {
+    /* display: none;*/
+}
+
+.layer {
+    margin-right: 23px;
+}
+
+.cascadSearch {
+    display: inline-block;
+}
+
+.search {
+    margin-left: 23px;
+}
+
+.contacts {
+    /*   width: 1730px;*/
+    height: 358px;
+}
+
+.sliderPreview {
+    /*   width: 1730px;*/
+    height: 566px;
+    background-color: #595959;
+    text-align: center;
+    display: block;
+    position: relative;
+}
+
+.sliderButtonLeft {
+    border: 0;
+    background-color: #595959;
+    outline: none;
+    height: 566px;
+}
+
+.sliderButtonRight {
+    border: 0;
+    background-color: #595959;
+    outline: none;
+    height: 566px;
+}
+
+.sliderPreview .sliderColomnLeft {
+    margin-right: 400px;
+    display: inline-block;
+}
+
+.sliderPreview .sliderColomnCenter {
+    display: inline-block;
+    color: white;
+    position: absolute;
+    top: 50%;
+    margin-top: -9em;
+}
+
+
+.paragraphStyle1 {
+    font-size: 30px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+}
+
+.paragraphStyle2 {
+    font-size: 15px;
+    font-family: "Myriad Pro";
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+}
+
+.sliderPreview .sliderColomnRight {
+    margin-left: 800px;
+    display: inline-block;
+}
+
+.sliderPreview .sliderColomnCenter .readmeButtonArea {
+    display: inline-block;
+    background-image: url(Images/readmeButtonArea.png);
+    height: 56px;
+    width: 181px;
+}
+
+.sliderPreview .sliderColomnCenter .readmeButtonArea .readmeButton {
+    background-image: url(Images/readmeButton.png);
+    border: 0;
+    outline: none;
+    height: 45px;
+    width: 169px;
+    background-color: #7a7a7a;
+    margin-top: 7px;
+    
+
+    
+        font-size: 13px;
+        font-family: "Myriad Pro";
+        color: rgb(255, 255, 255);
+        text-transform: uppercase;
+       
+      
+      
+}
+
+.pageFilling {
+    /*   width: 1730px;*/
+    height: 4366px;
+
+}
+
+.certainFigure {
+    display: block;
+    position: relative;
+    
+}
+.lifeStyleImg {
+    display: inline-block;
+ 
+}
+
+
+
+
+
+
+
+
+
+.searchField {
+    /*   width: 1730px;*/
+    height: 643px;
+    background-color: #ffffff;
+}
+
+.socialNetworkField {
+    /*   width: 1730px;*/
+    height: 339px;
+    background-color: #595959;
+}
+
+.theEnd {
+    /*   width: 1730px;*/
+    height: 57px;
+    font-style: italic;
+    text-align: center;
+}
+
+.socialMediaImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 26px;
+    margin-top: 100px;
+}
+
+.taglineImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+}
+
+.logoImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
